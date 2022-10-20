@@ -1,0 +1,21 @@
+.input {
+    width: 1050px;
+    height: 40px;
+    margin-bottom: 0px;
+    margin-left: 20px;
+    flex-wrap: nowrap !important;
+}
+
+.b {
+    position: absolute;
+    left: 10% !important;
+    margin-right: 15px;
+    margin-left: 0;
+    width: 100px;
+}
+.o {
+    border-top: 1px solid rgba(128, 128, 128, 0.371);
+    border-bottom: 1px solid rgba(128, 128, 128, 0.371);
+    padding-bottom: 10px;
+    padding-top: 15px;
+}
